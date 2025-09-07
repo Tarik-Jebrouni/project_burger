@@ -2,8 +2,8 @@ import React from "react";
 import burger from "../assets/burgerorder.png";
 import pizzaImage from "../assets/pizza_barbani.png";
 import pizzaImage2 from "../assets/pizza_margharita.png";
-import "../styles/HomePage.css";
 import { useState } from "react";
+import "../styles/HomePage.css";
 
 const products = [
   {
